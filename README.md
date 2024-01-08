@@ -140,4 +140,3 @@ Project Live Link:
 [VerbWire-URL]: https://www.verbwire.com/
 [Domain.com]: https://www.domain.com/
 
-Declaration: This repository was created after 9PM EST April 28 and was not edited after 3AM EST April 30 !!!
